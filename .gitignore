@@ -1,0 +1,5 @@
+test/
+.env3
+.idea/
+__pycache__/
+*.log
